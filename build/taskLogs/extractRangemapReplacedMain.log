@@ -1,0 +1,283 @@
+Unsupposrted library path: C:\Users\celti\MCreatorWorkspaces\trop\build\classes\java\api
+Unsupposrted library path: C:\Users\celti\MCreatorWorkspaces\trop\build\resources\api
+Symbol range map extraction starting
+Processing 93 files
+startProcessing "net/mcreator/trop/ClientProxyTropMod.java" md5: 878a783d61f184dbc39519008bca8f56
+endProcessing "net/mcreator/trop/ClientProxyTropMod.java"
+
+startProcessing "net/mcreator/trop/ElementsTropMod.java" md5: fa40bc1cf9514ab9c187697c6900df58
+endProcessing "net/mcreator/trop/ElementsTropMod.java"
+
+startProcessing "net/mcreator/trop/IProxyTropMod.java" md5: 54d201339873597428e6778482247e29
+endProcessing "net/mcreator/trop/IProxyTropMod.java"
+
+startProcessing "net/mcreator/trop/ServerProxyTropMod.java" md5: 935fe9379a19d9f464dd4631dbdf30eb
+endProcessing "net/mcreator/trop/ServerProxyTropMod.java"
+
+startProcessing "net/mcreator/trop/TropMod.java" md5: e25ff767d5efef033bd1bcebeee08ac0
+endProcessing "net/mcreator/trop/TropMod.java"
+
+startProcessing "net/mcreator/trop/TropModVariables.java" md5: 94d7097f68ddc549605eafb22f79d3e3
+endProcessing "net/mcreator/trop/TropModVariables.java"
+
+startProcessing "net/mcreator/trop/creativetab/TabRingsOfPower.java" md5: febd384c8a6f2041eb61adb0be4dd40e
+endProcessing "net/mcreator/trop/creativetab/TabRingsOfPower.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingAdunaphel.java" md5: 7419bf7045d94428297126470457c1b8
+endProcessing "net/mcreator/trop/item/ItemRingAdunaphel.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingAkhorahil.java" md5: 4c28cb3252d22430f3a8bb84bb0dd9a3
+endProcessing "net/mcreator/trop/item/ItemRingAkhorahil.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingBaraz.java" md5: fde3872aafee91c3383ed6545de1a7de
+endProcessing "net/mcreator/trop/item/ItemRingBaraz.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingBurin.java" md5: 6e923d4eeeed66c422b33587fc81a90d
+endProcessing "net/mcreator/trop/item/ItemRingBurin.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingDwar.java" md5: 21902525dbe601858514fc6d8013d760
+endProcessing "net/mcreator/trop/item/ItemRingDwar.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingFarin.java" md5: cbbebe07f37a597b8d1d089b158ca167
+endProcessing "net/mcreator/trop/item/ItemRingFarin.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingGreat.java" md5: 2e9ceb0f2cbd6db81169f16dcf1a8394
+endProcessing "net/mcreator/trop/item/ItemRingGreat.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingHoarmurath.java" md5: c6031f8494894df6d0469df639f0bd25
+endProcessing "net/mcreator/trop/item/ItemRingHoarmurath.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingJiindur.java" md5: 63e59c8f6498a79a5b22f9adecee9298
+endProcessing "net/mcreator/trop/item/ItemRingJiindur.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingKhain.java" md5: 78dcf7b3302276f48a885c23a1da88f4
+endProcessing "net/mcreator/trop/item/ItemRingKhain.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingKhamul.java" md5: 8ad0fd7017f3593b9febbf1b7acf3511
+endProcessing "net/mcreator/trop/item/ItemRingKhamul.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingKhibil.java" md5: 9b1c1a865b433166b322ea9dfe8f0362
+endProcessing "net/mcreator/trop/item/ItemRingKhibil.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingMurazor.java" md5: ab07ac2ba0a39855f68f2227089a0277
+endProcessing "net/mcreator/trop/item/ItemRingMurazor.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingNarya.java" md5: e4bed9bae0b081a413645f9adc2f275b
+endProcessing "net/mcreator/trop/item/ItemRingNarya.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingNenya.java" md5: 1a4c156cf6c5de9b39606d557ef78e6c
+endProcessing "net/mcreator/trop/item/ItemRingNenya.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnAdunaphel.java" md5: 7c89035c3add3a73ac9a57b02ef86c87
+endProcessing "net/mcreator/trop/item/ItemRingOnAdunaphel.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnAkhorahil.java" md5: 1fdb9c5a9245de98c9c7d383e9d03afb
+endProcessing "net/mcreator/trop/item/ItemRingOnAkhorahil.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnBaraz.java" md5: 29ca8a0677a999c4daacf299e752ef13
+endProcessing "net/mcreator/trop/item/ItemRingOnBaraz.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnBurin.java" md5: 76d921bbe2453e74f58b0c74c5500fa9
+endProcessing "net/mcreator/trop/item/ItemRingOnBurin.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnDwar.java" md5: 13f65db242e9978cc9e15cc301545548
+endProcessing "net/mcreator/trop/item/ItemRingOnDwar.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnFarin.java" md5: 6fb65fc00a642e3c7d791516d08e489b
+endProcessing "net/mcreator/trop/item/ItemRingOnFarin.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnGreat.java" md5: df17c8c87299335fc1a4ec9b77a11f0d
+endProcessing "net/mcreator/trop/item/ItemRingOnGreat.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnHoarmurath.java" md5: 3f6569d84b1c7adbe637981e33453d41
+endProcessing "net/mcreator/trop/item/ItemRingOnHoarmurath.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnJiindur.java" md5: edf667387d0899d1160389ef16de9c89
+endProcessing "net/mcreator/trop/item/ItemRingOnJiindur.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnKhain.java" md5: 7456c618c035ac7fc9922cef520d4a47
+endProcessing "net/mcreator/trop/item/ItemRingOnKhain.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnKhamul.java" md5: 9c9082e5d2e4f7909074dfdd4bc2e62d
+endProcessing "net/mcreator/trop/item/ItemRingOnKhamul.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnKhibil.java" md5: 059c551eea5632f39c8953f19796b585
+endProcessing "net/mcreator/trop/item/ItemRingOnKhibil.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnMurazor.java" md5: ef4a15e7eb568ba0f2cc0b9d2fb526d7
+endProcessing "net/mcreator/trop/item/ItemRingOnMurazor.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnNarya.java" md5: 33cfe8317611f25f23ccd403afa84f38
+endProcessing "net/mcreator/trop/item/ItemRingOnNarya.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnNenya.java" md5: d3518434831dcd51a381240b7c2d5e24
+endProcessing "net/mcreator/trop/item/ItemRingOnNenya.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnRen.java" md5: b8f74926b94e21bcfaf1aa37e4c34f22
+endProcessing "net/mcreator/trop/item/ItemRingOnRen.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnThror.java" md5: 8c2eebcabc56b07b897a44f36257f45d
+endProcessing "net/mcreator/trop/item/ItemRingOnThror.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnThulin.java" md5: 99ab5893c4fdc4b58eee5c6b14e5c1fe
+endProcessing "net/mcreator/trop/item/ItemRingOnThulin.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnUvatha.java" md5: 0650b224f790c57deb7f90d0cddd3e08
+endProcessing "net/mcreator/trop/item/ItemRingOnUvatha.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingOnVilya.java" md5: 827ab14c871c37a46df7e8fbcd7a0e15
+endProcessing "net/mcreator/trop/item/ItemRingOnVilya.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingRen.java" md5: d536f1b033ff19d581373277832441ad
+endProcessing "net/mcreator/trop/item/ItemRingRen.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingThror.java" md5: 9c6127704607cb9fed9efd5333056c9a
+endProcessing "net/mcreator/trop/item/ItemRingThror.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingThulin.java" md5: 70889eb226520c8a239f1416b3274fe5
+endProcessing "net/mcreator/trop/item/ItemRingThulin.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingUvatha.java" md5: ec2e32ef51690945eab9f2cd186c3c53
+endProcessing "net/mcreator/trop/item/ItemRingUvatha.java"
+
+startProcessing "net/mcreator/trop/item/ItemRingVilya.java" md5: 5e6ad6bf5e7f386cfed68a1993d41ceb
+endProcessing "net/mcreator/trop/item/ItemRingVilya.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingAdunaphel.java" md5: 202771923753e59b5e6d52188d221d54
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingAdunaphel.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingAkhorahil.java" md5: 41f4d1a3fb0ab423e617517da833e49b
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingAkhorahil.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingBaraz.java" md5: 65b40eb53392ace283e3616ba6af6b30
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingBaraz.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingBurin.java" md5: c063e5c5a2ea77af5d79fb9a78cf0e67
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingBurin.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingDwar.java" md5: c71a4918ea92c58e80ac892f7d25b32e
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingDwar.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingFarin.java" md5: f36e6117d19cd2dddebb9c7a82a4c057
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingFarin.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingHoarmurath.java" md5: 88436be698f928fa444366709e890e80
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingHoarmurath.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingJiindur.java" md5: 0eb50adf5fe990478e83126d69169edb
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingJiindur.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingKhain.java" md5: 3516ba0506d7949abc2a73267e949666
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingKhain.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingKhamul.java" md5: 8c9e1a23b7fae588c3af06efb4c7351f
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingKhamul.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingKhibil.java" md5: 151348eba11af393bf0be761ac63a9a9
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingKhibil.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingMurazor.java" md5: bd95e3f6fe8af41cdc4b211bdf56d05d
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingMurazor.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingNarya.java" md5: 8206ad7b46c546efb44fc33e2f3aac1c
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingNarya.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingNenya.java" md5: 974cc72abea85184a79581a3d4d606cd
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingNenya.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingRen.java" md5: 8c1e4b72efa147dd074dbd0b72e1c736
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingRen.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingThror.java" md5: de138103dd01448b5fa153740402ae78
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingThror.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingThulin.java" md5: 7b1d54a602ffe46d8bd46725356634ff
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingThulin.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingUvatha.java" md5: 88ae659fcab638f06b2767090e767005
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingUvatha.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingVilya.java" md5: 8fa95617e49a9b04c1355b0d1e53aef5
+endProcessing "net/mcreator/trop/procedure/ProcedurePutOnRingVilya.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureRingEffectDwarven.java" md5: 221314b76bdf2e6510923833a754bbe7
+endProcessing "net/mcreator/trop/procedure/ProcedureRingEffectDwarven.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureRingEffectGreat.java" md5: 978aa1e377b5f6c205f55881199f4d2c
+endProcessing "net/mcreator/trop/procedure/ProcedureRingEffectGreat.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureRingEffectMen.java" md5: 7abe1b917206d7d0f505065c0bc36bd4
+endProcessing "net/mcreator/trop/procedure/ProcedureRingEffectMen.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureRingEffectNarya.java" md5: edc2e70c4ff108e9eff0ae9b4c7222a6
+endProcessing "net/mcreator/trop/procedure/ProcedureRingEffectNarya.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureRingEffectNenya.java" md5: 666adf6bc5437713ad72e74e7a9ebfbe
+endProcessing "net/mcreator/trop/procedure/ProcedureRingEffectNenya.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureRingEffectVilya.java" md5: e81e5573d29a77cd690687a59101f428
+endProcessing "net/mcreator/trop/procedure/ProcedureRingEffectVilya.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureRingGreatPutOn.java" md5: c346b66108084394beed3a044e1fd7aa
+endProcessing "net/mcreator/trop/procedure/ProcedureRingGreatPutOn.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingAdunaphel.java" md5: 787ae04da0828f9f2242ede56245c49c
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingAdunaphel.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingAkhorahil.java" md5: 7f59681ffa760c819915a907c54e5bd9
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingAkhorahil.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingBaraz.java" md5: 25b0338845f3a23b4b3a5168089a850b
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingBaraz.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingBurin.java" md5: bb389e5adbcf655c9363a4798c692655
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingBurin.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingDwar.java" md5: 0c7adda86e4699ecefa23417a1fd1b8d
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingDwar.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingFarin.java" md5: 11dad11c7bf3490470aebdf0d6c1e68f
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingFarin.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingGreat.java" md5: 20fc1e7c07ec18cbcaefce1097d9d3c1
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingGreat.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingHoarmurath.java" md5: 2b874fb6e0cadaf708e0e358bf0b3842
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingHoarmurath.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingJiindur.java" md5: b75ec99c7e5c818b77fc03ce0095ef3c
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingJiindur.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingKhain.java" md5: 6c6c60c1e4e757e20b5f53b6a8cebf63
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingKhain.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingKhamul.java" md5: 0e7e03401ddaead5cb1933e67ebf217c
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingKhamul.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingKhibil.java" md5: 9300a7a7dc66833d91b62a9fb228ee76
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingKhibil.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingMurazor.java" md5: c50d64903fa48556e6df2231b42eefba
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingMurazor.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingNarya.java" md5: bc20c8f42189685d419392bb4644997f
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingNarya.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingNenya.java" md5: 549a5816dab2f61f09b1fbda47bcd802
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingNenya.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingRen.java" md5: 65bda848b6e43749609da5b6cc905641
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingRen.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingThror.java" md5: 45f7a1fadaac32c18a0b1d9ba59af040
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingThror.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingThulin.java" md5: dbed45a346ecb6d0eea1df3623c5aedf
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingThulin.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingUvatha.java" md5: ee118016616bb911db1435c1b3563ded
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingUvatha.java"
+
+startProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingVilya.java" md5: 7c4105f6f0efc20567dc44e29dba30c6
+endProcessing "net/mcreator/trop/procedure/ProcedureTakeOffRingVilya.java"
+
