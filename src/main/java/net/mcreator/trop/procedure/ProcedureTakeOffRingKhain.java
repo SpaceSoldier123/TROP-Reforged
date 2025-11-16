@@ -30,5 +30,7 @@ public class ProcedureTakeOffRingKhain extends ElementsTropMod.ModElement {
 			if (entity instanceof EntityPlayerMP)
 				((EntityPlayerMP) entity).inventory.markDirty();
 		}
+		if (entity instanceof EntityLivingBase)
+			((EntityLivingBase) entity).clearActivePotions();
 	}
 }

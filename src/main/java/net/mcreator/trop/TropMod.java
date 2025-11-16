@@ -45,7 +45,7 @@ import java.util.function.Supplier;
 @Mod(modid = TropMod.MODID, version = TropMod.VERSION)
 public class TropMod {
 	public static final String MODID = "trop";
-	public static final String VERSION = "v1.0";
+	public static final String VERSION = "v1.2.1";
 	public static final SimpleNetworkWrapper PACKET_HANDLER = NetworkRegistry.INSTANCE.newSimpleChannel("trop:a");
 	@SidedProxy(clientSide = "net.mcreator.trop.ClientProxyTropMod", serverSide = "net.mcreator.trop.ServerProxyTropMod")
 	public static IProxyTropMod proxy;

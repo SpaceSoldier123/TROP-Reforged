@@ -1151,6 +1151,75 @@
           }
         ]
       }
+    },
+    {
+      "name": "RingTest",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ring_test"
+    },
+    {
+      "name": "RingEffectTest",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ring_effect_test",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RingOnTest",
+      "type": "item",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ring_on_test"
+    },
+    {
+      "name": "PutOnRingTest",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "put_on_ring_test",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TakeOffRingTest",
+      "type": "procedure",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "take_off_ring_test",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -1159,12 +1228,13 @@
     "en_us": {
       "item.ring_farin.name": "Farin\u0027s Ring",
       "item.ring_on_farin.name": "Farin\u0027s Ring (on finger)",
-      "item.ring_khamul.name": "Khamul\u0027s Ring",
-      "item.ring_uvatha.name": "Uvatha\u0027s Ring",
       "item.ring_on_baraz.name": "Baraz\u0027s Ring (on finger)",
+      "item.ring_uvatha.name": "Uvatha\u0027s Ring",
+      "item.ring_khamul.name": "Khamul\u0027s Ring",
       "item.ring_khain.name": "Khain\u0027s Ring",
       "item.ring_ren.name": "Ren\u0027s Ring",
       "item.ring_on_jiindur.name": "Ji-indur\u0027s Ring (on finger)",
+      "item.ring_test.name": "RingTest",
       "item.ring_on_khamul.name": "Khamul\u0027s Ring (on finger)",
       "item.ring_narya.name": "Narya",
       "item.ring_khibil.name": "Khibil\u0027s Ring",
@@ -1195,17 +1265,23 @@
       "item.ring_on_khain.name": "Khain\u0027s Ring (on finger)",
       "item.ring_on_hoarmurath.name": "Hoarmurath\u0027s Ring (on finger)",
       "item.ring_baraz.name": "Baraz\u0027s Ring",
+      "item.ring_on_test.name": "RingTest",
       "item.ring_thror.name": "Thror\u0027s Ring",
       "item.ring_on_dwar.name": "Dwar\u0027s Ring (on finger)",
       "item.ring_on_murazor.name": "Murazor\u0027s Ring (on finger)"
     }
   },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
   "workspaceSettings": {
     "modid": "trop",
     "modName": "The Rings of Power: Reforged",
-    "version": "v1.0",
+    "version": "v1.3",
     "author": "SpaceSoldier248",
     "websiteURL": "https://discord.gg/3zVXJZCtRy",
+    "license": "Not specified",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "logo",
@@ -1218,5 +1294,5 @@
     "modElementsPackage": "net.mcreator.trop",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000547520
+  "mcreatorVersion": 202100118117
 }

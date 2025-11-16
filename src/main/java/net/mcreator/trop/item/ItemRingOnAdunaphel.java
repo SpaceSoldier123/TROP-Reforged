@@ -13,12 +13,10 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.entity.player.EntityPlayer;
-import net.minecraft.entity.Entity;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
 import net.mcreator.trop.procedure.ProcedureTakeOffRingAdunaphel;
-import net.mcreator.trop.procedure.ProcedureRingEffectMen;
 import net.mcreator.trop.ElementsTropMod;
 
 import java.util.Map;
@@ -79,19 +77,6 @@ public class ItemRingOnAdunaphel extends ElementsTropMod.ModElement {
 				ProcedureTakeOffRingAdunaphel.executeProcedure($_dependencies);
 			}
 			return ar;
-		}
-
-		@Override
-		public void onUpdate(ItemStack itemstack, World world, Entity entity, int slot, boolean par5) {
-			super.onUpdate(itemstack, world, entity, slot, par5);
-			int x = (int) entity.posX;
-			int y = (int) entity.posY;
-			int z = (int) entity.posZ;
-			{
-				Map<String, Object> $_dependencies = new HashMap<>();
-				$_dependencies.put("entity", entity);
-				ProcedureRingEffectMen.executeProcedure($_dependencies);
-			}
 		}
 	}
 }
